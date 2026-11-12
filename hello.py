@@ -6,7 +6,6 @@ def say_hello(name=None):
 
 say_hello()
 say_hello("Anna")
-say_hello(name="Ben")
 say_hello("")
 say_hello("Jonathan")
 say_hello("Jonathan2")
